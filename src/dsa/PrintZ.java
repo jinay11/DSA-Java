@@ -1,0 +1,22 @@
+package dsa;
+
+public class PrintZ {
+	
+	public static void main(String[] args) {
+		
+	
+		System.out.println("* * * * * ");
+		System.out.println("      *   ");
+		System.out.println("    *     ");
+		System.out.println("  *       ");
+		System.out.println("* * * * * ");
+		
+		System.out.println("--------------------------------------------");
+		
+		//using one statement
+		
+		System.out.println("* * * * * \n      * \n    * \n  * \t \n * * * * *");
+		
+	}
+	
+}
